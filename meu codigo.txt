@@ -1,3 +1,5 @@
 Olá mundo
 
 Eu sou uma nova linha
+
+Eu sou uma nova linha *no staging*
